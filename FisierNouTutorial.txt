@@ -1,0 +1,4 @@
+Se pot adauga fisiere:
+text
+imagine
+etc
