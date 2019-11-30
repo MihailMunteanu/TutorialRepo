@@ -2,3 +2,4 @@ Se pot adauga fisiere:
 text
 imagine
 etc
+fisiere se pot modifica ulterior
